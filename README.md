@@ -1,1 +1,1 @@
-# Lezione_Mennillo
+Salve a tutti qua ci saranno i miei appunti su queste lezioni di linux e python.
