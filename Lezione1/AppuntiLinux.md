@@ -1,4 +1,4 @@
-![GitHub Icona](../../../Img/GitHub.jpg)
+![GitHub Icona](./GitHub.jpg)
 
 # Settare ambiente Linux per Git
 
