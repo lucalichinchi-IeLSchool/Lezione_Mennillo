@@ -14,3 +14,4 @@
 `git push` Questo server ad inviare il codice in remoto
 `git pull` Questo comando serve a recuperare i file da remoto
 `git merge` Questo comando serve a fondere i branches di un progetto
+`git clone`  Questo comando serve a copiare una cartella di un utente nella la cartella selezionata
